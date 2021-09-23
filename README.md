@@ -27,3 +27,5 @@ From another tab, send the image file in a request:
 The mighty MIT license. Please check `LICENSE` for more details.
 
 https://github.com/avinassh/pytorch-flask-api
+
+https://pytorch.org/tutorials/intermediate/flask_rest_api_tutorial.html
